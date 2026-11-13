@@ -1,0 +1,28 @@
+# Large data and intermediate files (regenerate with the notebook)
+data/
+reference/
+results/
+*.sra
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.vcf
+*.vcf.gz
+*.tbi
+*.fa
+*.fai
+*.dict
+*.gtf
+humandb/
+annovar/
+
+# Jupyter / Python / OS
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.log

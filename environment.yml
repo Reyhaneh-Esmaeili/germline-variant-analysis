@@ -1,0 +1,20 @@
+name: germline-wes
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - ipykernel
+  - sra-tools
+  - fastqc
+  - trimmomatic
+  - bwa
+  - samtools
+  - bcftools
+  - gatk4=4.6.2.0
+  - openjdk=17
+  - gawk
+  - perl
+  - unzip
