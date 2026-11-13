@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR12083525_2_paired.fq
+PASS	Per base sequence quality	SRR12083525_2_paired.fq
+PASS	Per sequence quality scores	SRR12083525_2_paired.fq
+PASS	Per base sequence content	SRR12083525_2_paired.fq
+PASS	Per sequence GC content	SRR12083525_2_paired.fq
+PASS	Per base N content	SRR12083525_2_paired.fq
+WARN	Sequence Length Distribution	SRR12083525_2_paired.fq
+PASS	Sequence Duplication Levels	SRR12083525_2_paired.fq
+PASS	Overrepresented sequences	SRR12083525_2_paired.fq
+PASS	Adapter Content	SRR12083525_2_paired.fq
